@@ -461,6 +461,8 @@ p {
 .navbar-brand {
   padding: 0;
   color: #ffffff;
+  font-family: avigea, sans-serif !important;
+  font-size: 2rem;
 }
 
 .navbar-brand:hover {
