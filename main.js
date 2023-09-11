@@ -11,6 +11,8 @@
 		document.querySelector('.preloader').style.display = 'none';
         var element = document.getElementById('home');
         element.style.display = 'block';
+        var element = document.getElementById('work');
+        element.style.display = 'block';
 	}
 
     
